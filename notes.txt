@@ -1,0 +1,2 @@
+npx create-next_app@latest
+npx create-next_app@14.2.8 ecommerce -> it ask to create new next project for us
